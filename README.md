@@ -19,7 +19,7 @@ md
 
 
 ## Website
-https://thomascupchurch.github.io/run-buddy/
+https://github.com/thomascupchurch/Horiseon-Refactor.git
 
 ## Contribution
 Refactored with ❤️ by Thomas Upchurch
