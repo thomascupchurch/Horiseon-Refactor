@@ -9,13 +9,13 @@ A website that informs customers of Horiseon's multiple services and benefits, w
 
 ## Screenshots
 md
-![Full view of refactored Horiseon homepage](/Develop/assets/images/Horiseon-Full-View.png)
+![Full view of refactored Horiseon homepage](/assets/images/Horiseon-Full-View.png)
 
 md
-![Screenshot of main content of refactored Horiseon homepage](/Develop/assets/images/Horiseon-Main.png)
+![Screenshot of main content of refactored Horiseon homepage](/assets/images/Horiseon-Main.png)
 
 md
-![Screenshot of nav and hero from refactored Horiseon homepage](/Develop/assets/images/Horiseon-Nav-and-Hero.png)
+![Screenshot of nav and hero from refactored Horiseon homepage](/assets/images/Horiseon-Nav-and-Hero.png)
 
 
 ## Website
